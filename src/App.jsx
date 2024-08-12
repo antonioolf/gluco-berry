@@ -1,4 +1,3 @@
-import GlobalStyle from "./app/components/GlobalStyle";
 import Section1 from "./app/sections/Section1";
 import Section2 from "./app/sections/Section2";
 import Section3 from "./app/sections/Section3";
@@ -10,6 +9,7 @@ import Section8 from "./app/sections/Section8";
 import Section9 from "./app/sections/Section9";
 import Section10 from "./app/sections/Section10";
 import Footer from "./app/sections/Footer";
+import GlobalStyle from "./app/components/GlobalStyle";
 
 function App() {
   return (
@@ -17,6 +17,7 @@ function App() {
       <GlobalStyle />
       <Section1 />
       <Section4 />
+      <Section9 />
       <Section10 />
       <Footer />
     </main>
