@@ -1,6 +1,6 @@
 const constants = {
-  productName: 'Catálogo Criativo',
-  affiliateLink: 'https://10004fynx-om41a1-erkh0-b5l.hop.clickbank.net',
-}
+  productName: "Catálogo Criativo",
+  affiliateLink: "https://94c67iri8zrm0d37smsec6um7o.hop.clickbank.net",
+};
 
-export default constants
+export default constants;
